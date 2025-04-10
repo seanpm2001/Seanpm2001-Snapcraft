@@ -137,9 +137,6 @@ _End of translation section._
 
 # Index
 
-
-COME BACK TO THIS
-
 - [00.0 - Top](#Top)
 - - [00.1 - Title](#Seanpm2001-Snapcraft)
 - - [00.2 - Change language](#Change-language)
@@ -247,17 +244,17 @@ Starting on 2025, April 5th, I started to create separate repositories for each 
 
 I do not like Snapcraft anymore, and feel like I might have to orphan these packages. Snapcraft feels like a cancerous tumor for Linux.
 
-Snapcraft is a problem for Linux, as it restricts software freedom by introducing a proprietary package format that leaves little control to the user.
+Snapcraft is a problem for Linux, as it restricts software freedom by introducing a proprietary package format that leaves little control to the user. Proprietary software should have no place on Linux, or anywhere in that regard.
 
-Snapcraft is a Software as a Service Substitute (SaaSS) method, and packages produced typically can't be used in the future.
+Snapcraft is a Software as a Service Substitute (SaaSS) method, and packages produced typically can't be used in the future, as you can't use older, functioning versions.
 
-Compared to *.deb, Snap packages cannot be transferred to the next device, or installed as easily, and you are always forced to have the bleeding edge version of the program, even when that version is unstable (I have had many unstable Firefox updates, and wish I could have just stayed with Firefox 88.0.1) 
+Compared to *.deb, Snap packages cannot be transferred to the next device, or installed as easily, and you are always forced to have the bleeding edge version of the program, even when that version is unstable (I have had many unstable Firefox updates, and wish I could have just stayed with Firefox 88.0.1, or at least kept running the version that was working fine) 
 
-Even though Snapcraft claims to be safe, there are instances of unsafe programs being developed.
+Even though Snapcraft claims to be safe, there are instances of unsafe programs being developed. Some Snapcraft packages are capable of crashing a Linux system.
 
-Furthermore, Snapcraft versions of programs are inferior in functionality to versions in other package formats, as Snap offers less control, and less performance.
+Furthermore, Snapcraft versions of programs are inferior in functionality to versions in other package formats, as Snap offers far less control, and has significantly less performance.
 
-Sure, Snapcraft is cross-platform, and makes it easy to support many Linux distributuons, but it has too many problems, and just isn't viable.
+Sure, Snapcraft is cross-platform, and makes it easy to support many Linux distributuons, but it has too many problems, and just isn't viable. Stick to supporting formats like *.deb *.rpm *.flatpak and others
 
 ***
 
@@ -340,11 +337,11 @@ See above. This project is for the archival of my Snapcraft package projects pri
 
 > > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_GitHubby-Snap/)
 
-<!-- TODO
+```TODO
 ERROR
 Separate repository, figure out how to integrate
 TODO
-!-->
+```
 
 12. [GratyBot-Snap-1](/Orgs/GratyBot/GratyBot-Snap-1/)
 
@@ -424,11 +421,11 @@ TODO
 
 > > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Touch-Pets-Dogs-2-Rewritten-Snap/)
 
-<!-- TODO
+```TODO
 ERROR
 Separate repository, figure out how to integrate
 TODO
-!-->
+```
 
 25. [TouchPetsDogs2Rewritten-Snap](/Orgs/TouchPetsDogs2Rewritten/TouchPetsDogs2Rewritten-Snap/)
 
@@ -472,7 +469,11 @@ TODO
 
 > > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_iBlast-Game-Snap/)
 
-32. More coming soon
+32. [uOffice-Snap](/Orgs/iBlast-Game/uOffice-Snap/)
+
+> [Branch: master](/Orgs/uOffice/uOffice-Snap-Snap/Branches/master/)
+
+> > [:octocat: Separate repository](hhttps://github.com/seanpm2001/ARCHIVE_uOffice-Snap/)
 
 </details>
 
@@ -869,12 +870,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2025, Tuesday, April 8th at 04:44 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `0,997` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `08,455` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `061,722` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `055,645` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `064,559` <!-- TODO: This line should be updated daily !-->
+- **File version:** `2 (2025, Wednesday, April 9th at 05:59 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,020` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `08,650` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `062,994` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `056,734` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `065,832` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -939,6 +940,28 @@ History of this file.
 - [ ] No other changes in version 1
 
 </details> <!-- End of file history: V1 !-->
+
+---
+
+## Version 2 (2025, Wednesday, April 9th at 05:59 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the second release of this README file. Hopefully, it is the last release for a long time._
+
+> Changes:
+
+- [x] Updated the `Index` secftion
+- [x] Updated the `Modern Opinion on SNapcraft` section
+- [x] Updated the `List of Snapcraft packages` section with a 32nd package
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+</details> <!-- End of file history: V2 !-->
 
 ---
 
