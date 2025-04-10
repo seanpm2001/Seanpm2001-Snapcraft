@@ -2,17 +2,17 @@
 //// Seanpm2001-Snapcraft_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Snapcraft project repositories by @seanpm2001
-//// As of 2025, Tuesday, April 8th
+//// As of 2025, Wednesday, April 9th
 
 //// ----------------------------------------------------- \\\\
-//// Seanpm2001 Snapcraft Project (32)
+//// Seanpm2001 Snapcraft Project (33)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 Snapcraft Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-Snapcraft
 
-//// Snapcraft archive repositories (31)
+//// Snapcraft archive repositories (32)
 
 https://github.com/seanpm2001/ARCHIVE_AUTOMATE-2001-Snap
 https://github.com/seanpm2001/ARCHIVE_BGemJam-game-Snap
@@ -45,32 +45,41 @@ https://github.com/seanpm2001/ARCHIVE_Virg-io-dev-Snap
 https://github.com/seanpm2001/ARCHIVE_YKDefender-Snap
 https://github.com/seanpm2001/ARCHIVE_ZooTree-Snap
 https://github.com/seanpm2001/ARCHIVE_iBlast-Game-Snap
+https://github.com/seanpm2001/ARCHIVE_uOffice-Snap
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 Snapcraft): 32
-//// 1+31=32
+//// Repo count (Seanpm2001 Snapcraft): 33
+//// 1+32=33
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (0)
+//// See also (3)
 
-//// Nothing to list
-//// Something related to packages
-//// GitHub Pages collection
+//// Packages (1)
+
+https://github.com/seanpm2001/Packages
+
+//// Snap packages (1)
+
+https://github.com/seanpm2001/Linux.Ubuntu.SnapPackages
+
+//// GitHub Pages collection (1)
+
+https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 0
-//// 0+0=0
+//// Repo count (See also): 3
+//// 1+1+1=3
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 32
-//// 32+0=32
+//// Total repo count: 36
+//// 33+3=36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Tuesday, April 8th at 04:41 pm PST)
-//// Line count (including blank lines and compiler line): 77
+//// File version: 5 (2025, Wednesday, April 9th at 05:57 pm PST)
+//// Line count (including blank lines and compiler line): 86
 //// ----------------------------------------------------- \\\\
 
 //// End of file
